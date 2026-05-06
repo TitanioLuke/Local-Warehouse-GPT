@@ -1,0 +1,11 @@
+sku,produto,categoria,localizacao,stock,stock_minimo
+TSHIRT-BRANCA-S,T-Shirt Branca Tamanho S,T-Shirts,A01-01,35,10
+TSHIRT-BRANCA-M,T-Shirt Branca Tamanho M,T-Shirts,A01-02,42,10
+TSHIRT-PRETA-S,T-Shirt Preta Tamanho S,T-Shirts,A02-01,18,8
+HOODIE-PRETO-M,Hoodie Preto Tamanho M,Hoodies,B01-01,12,5
+HOODIE-PRETO-L,Hoodie Preto Tamanho L,Hoodies,B01-02,4,5
+CALCAS-AZUL-38,Calças Azuis Tamanho 38,Calças,C01-01,9,4
+CALCAS-AZUL-40,Calças Azuis Tamanho 40,Calças,C01-02,15,4
+SWEAT-CINZA-M,Sweat Cinza Tamanho M,Sweats,B02-01,21,6
+CASACO-VERDE-L,Casaco Verde Tamanho L,Casacos,D01-01,6,3
+VESTIDO-PRETO-M,Vestido Preto Tamanho M,Vestidos,D02-01,11,4

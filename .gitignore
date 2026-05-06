@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# ChromaDB / vector database
+chroma_db/
+.chroma/
+*.sqlite3
+*.sqlite
+*.db
+
+# Local model/cache files
+.cache/
+.cache_huggingface/
+huggingface/
+models/
+ollama/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Local exports
+exports/
+downloads/
+conversa_chatbot.txt
+
+# Keep project data/documents if they are demo files
+# If your documents contain private company data, uncomment these lines:
+documents/
+data/

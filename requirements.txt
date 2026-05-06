@@ -1,0 +1,7 @@
+streamlit
+chromadb
+ollama
+pandas
+sentence-transformers
+torch
+torchvision

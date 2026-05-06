@@ -1,0 +1,55 @@
+PROCEDIMENTOS INTERNOS DE ARMAZÉM - EXEMPLO
+
+1. Procedimento de Picking
+
+Antes de iniciar o picking, o operador deve confirmar a encomenda no sistema, validar o SKU, a descrição do produto, a quantidade pedida e a localização indicada.
+
+O operador deve deslocar-se à localização indicada, recolher apenas a quantidade necessária e confirmar se o produto corresponde exatamente ao SKU da encomenda.
+
+Se o produto estiver danificado, mal etiquetado ou fora da localização prevista, o operador não deve avançar sozinho. Deve parar o processo e comunicar a situação ao responsável do armazém.
+
+Após recolher os artigos, o operador deve colocar os produtos na zona de preparação de encomendas e confirmar novamente SKU, quantidade e estado físico do produto.
+
+
+2. Procedimento de Expedição
+
+Antes de expedir uma encomenda, o operador deve confirmar que todos os artigos foram corretamente separados, embalados e identificados.
+
+A etiqueta de transporte deve corresponder à encomenda, ao cliente e à morada de entrega. Se existir divergência na etiqueta, a encomenda não deve ser expedida.
+
+As encomendas só podem ser colocadas na zona de expedição depois de concluída a validação final.
+
+Se houver dúvida sobre transportadora, morada, documentação ou etiqueta, o operador deve validar com o responsável do armazém antes de expedir.
+
+
+3. Procedimento de Devoluções
+
+Quando uma devolução chega ao armazém, o operador deve identificar a encomenda, o cliente, o SKU devolvido e a quantidade recebida.
+
+O produto deve ser analisado visualmente para confirmar se está em bom estado, danificado, usado ou incompleto.
+
+Produtos em bom estado podem ser encaminhados para reposição de stock, após validação no sistema.
+
+Produtos danificados, incompletos ou com sinais de uso devem ser separados numa zona própria e comunicados ao responsável do armazém.
+
+
+4. Procedimento de Divergência de Stock
+
+Existe divergência de stock quando a quantidade física encontrada não corresponde à quantidade indicada no sistema.
+
+Quando for detetada uma divergência, o operador deve parar o processo, confirmar novamente a localização, verificar se existe produto noutra localização próxima e comunicar a situação ao responsável.
+
+O operador não deve alterar stock no sistema sem autorização.
+
+A correção de stock deve ser feita apenas após validação e registo da ocorrência.
+
+
+5. Procedimento de Segurança
+
+As zonas de circulação devem permanecer livres de obstáculos.
+
+Caixas, paletes e produtos não devem bloquear saídas, extintores, quadros elétricos ou corredores principais.
+
+Produtos pesados devem ser movimentados com cuidado e, quando necessário, com apoio de outro colaborador.
+
+Qualquer situação de risco, acidente, quase-acidente ou dano em material deve ser comunicada ao responsável do armazém.
