@@ -1,4 +1,4 @@
-sku,produto,categoria,localizacao,stock,stock_minimo
+SKU,Produto,Categoria,Localizacao,Stock,Stock_Minimo
 TSHIRT-BRANCA-S,T-Shirt Branca Tamanho S,T-Shirts,A01-01,35,10
 TSHIRT-BRANCA-M,T-Shirt Branca Tamanho M,T-Shirts,A01-02,42,10
 TSHIRT-PRETA-S,T-Shirt Preta Tamanho S,T-Shirts,A02-01,18,8
